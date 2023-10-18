@@ -201,26 +201,61 @@ void crearEncuestaPromedio(){
     fclose(archivo);
 }
 
-// Función para mostrar la encuesta promedio
-void mostrarEncuestaPromedio(){
-    Encuesta encuesta;
+// Función para mostrar la encuesta promedio ordenada por mayor porcentaje de votos
+void mostrarEncuestaPromedio() {
+    Encuesta encuestaPromedio;
     FILE *archivo;
     archivo = fopen("encuestaPromedio.dat", "rb");
-    if (archivo == NULL){
+    if (archivo == NULL) {
         printf("Error al abrir el archivo\n");
         exit(1);
     }
-    while (fread(&encuesta, sizeof(Encuesta), 1, archivo)){
-        printf("Milei: %.2f%%\n", encuesta.milei);
-        printf("Massa: %.2f%%\n", encuesta.massa);
-        printf("Bullrich: %.2f%%\n", encuesta.bullrich);
-        printf("Bregman: %.2f%%\n", encuesta.bregman);
-        printf("Schiaretti: %.2f%%\n", encuesta.schiaretti);
-        printf("\n");
-    }
+    fread(&encuestaPromedio, sizeof(Encuesta), 1, archivo);
     fclose(archivo);
+
+    // Definir un arreglo temporal para almacenar los porcentajes y nombres de los candidatos
+    struct {
+        float porcentaje;
+        char nombre[20];
+    } candidatos[5];
+
+    // Copiar los porcentajes de votos y nombres de candidatos en el arreglo temporal
+    candidatos[0].porcentaje = encuestaPromedio.milei;
+    strcpy(candidatos[0].nombre, "Milei");
+    candidatos[1].porcentaje = encuestaPromedio.massa;
+    strcpy(candidatos[1].nombre, "Massa");
+    candidatos[2].porcentaje = encuestaPromedio.bullrich;
+    strcpy(candidatos[2].nombre, "Bullrich");
+    candidatos[3].porcentaje = encuestaPromedio.bregman;
+    strcpy(candidatos[3].nombre, "Bregman");
+    candidatos[4].porcentaje = encuestaPromedio.schiaretti;
+    strcpy(candidatos[4].nombre, "Schiaretti");
+
+    // Ordenar el arreglo temporal por el mayor porcentaje de votos
+    for (int i = 0; i < 5; i++) {
+        for (int j = i + 1; j < 5; j++) {
+            if (candidatos[i].porcentaje < candidatos[j].porcentaje) {
+                // Intercambiar elementos si es necesario
+                float tempPorcentaje = candidatos[i].porcentaje;
+                candidatos[i].porcentaje = candidatos[j].porcentaje;
+                candidatos[j].porcentaje = tempPorcentaje;
+
+                char tempNombre[20];
+                strcpy(tempNombre, candidatos[i].nombre);
+                strcpy(candidatos[i].nombre, candidatos[j].nombre);
+                strcpy(candidatos[j].nombre, tempNombre);
+            }
+        }
+    }
+
+    // Mostrar la encuesta promedio ordenada
+    for (int i = 0; i < 5; i++) {
+        printf("%s: %.2f%%\n", candidatos[i].nombre, candidatos[i].porcentaje);
+    }
+
     TeclaParaContinuar();
 }
+
 
 // Función para pasar las encuestas a un archivo de texto
 void pasarEncuestasAarchivoTexto(){
