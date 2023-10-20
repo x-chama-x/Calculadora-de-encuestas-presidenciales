@@ -21,6 +21,7 @@ void mostrarEncuestas();
 void pasarEncuestasAarchivoTexto();
 void crearEncuestaPromedio();
 void mostrarEncuestaPromedio();
+void calcularCantidadDeEncuestas();
 Encuesta buscarEncuesta(char nombre[20]);
 
 int main(){
@@ -36,9 +37,10 @@ void menuPrincipal(){
         printf("menu principal\n");
         printf("1. Agregar encuesta\n");
         printf("2. Mostrar encuestas\n");
-        printf("3. Mostrar promedio de encuestas\n");
-        printf("4. Pasar encuestas a archivo de texto\n");
-        printf("5. Salir\n");
+        printf("3. Mostrar cantidad de encuestas cargadas\n");
+        printf("4. Mostrar promedio de encuestas\n");
+        printf("5. Pasar encuestas a archivo de texto\n");
+        printf("6. Salir\n");
         printf("Ingrese una opcion: ");
         scanf("%d", &opcion);
         switch(opcion){
@@ -53,24 +55,30 @@ void menuPrincipal(){
                 break;
             case 3:
                 system("cls");
+                calcularCantidadDeEncuestas();
+                break;
+            case 4:
+                system("cls");
                 printf("Encuesta presidencial promedio\n");
                 crearEncuestaPromedio(); // crea la encuesta promedio en el momento
                 mostrarEncuestaPromedio();
                 break;
-            case 4:
+            case 5:
                 system("cls");
                 printf("pasar encuestas a txt\n");
                 pasarEncuestasAarchivoTexto();
                 break;
-            case 5:
-                printf("Salir\n");
+            case 6:
+                system("cls");
+                printf("Saliendo...\n");
+                TeclaParaContinuar();
                 break;
             default:
                 printf("Opcion incorrecta\n");
                 TeclaParaContinuar();
                 break;
         } 
-    } while (opcion != 5);
+    } while (opcion != 6);
 }
 
 
@@ -253,6 +261,27 @@ void mostrarEncuestaPromedio() {
         printf("%s: %.2f%%\n", candidatos[i].nombre, candidatos[i].porcentaje);
     }
 
+    // Mostrar diferencia de votos entre cada candidato (solo entre Milei, Massa y Bulrrich)
+    printf("\n");
+    printf("Diferencia de votos entre candidatos:\n");
+    printf("Milei - Massa: %.2f%%\n", candidatos[0].porcentaje - candidatos[1].porcentaje);
+    printf("Milei - Bullrich: %.2f%%\n", candidatos[0].porcentaje - candidatos[2].porcentaje);
+    printf("Massa - Bullrich: %.2f%%\n\n", candidatos[1].porcentaje - candidatos[2].porcentaje);
+
+    // armar un bucle FOR para saber si un candidato ganaría en primera vuelta o mostrar posible balotaje
+    int contador = 0;
+    for (int i = 0; i < 5; i++) {
+        if (candidatos[i].porcentaje > 40) {
+            contador++;
+        }
+    }
+    printf("\n");
+    if (contador > 0) {
+        printf("Ganador en primera vuelta: %s\n", candidatos[0].nombre);
+    } else {
+        printf("Posible balotaje entre %s y %s\n", candidatos[0].nombre, candidatos[1].nombre);
+    }
+
     TeclaParaContinuar();
 }
 
@@ -285,5 +314,23 @@ void pasarEncuestasAarchivoTexto(){
     fclose(archivo);
     fclose(archivoTexto);
     printf("Encuestas guardadas en el archivo de texto\n");
+    TeclaParaContinuar();
+}
+
+// Función para calcular la cantidad de encuestas cargadas
+void calcularCantidadDeEncuestas(){
+    Encuesta encuesta;
+    FILE *archivo;
+    archivo = fopen("encuestas.dat", "rb");
+    if (archivo == NULL){
+        printf("Error al abrir el archivo\n");
+        exit(1);
+    }
+    int contador = 0;
+    while (fread(&encuesta, sizeof(Encuesta), 1, archivo)){
+        contador++;
+    }
+    fclose(archivo);
+    printf("Cantidad de encuestas cargadas: %d\n", contador);
     TeclaParaContinuar();
 }

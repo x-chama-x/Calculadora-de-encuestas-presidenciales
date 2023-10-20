@@ -1,0 +1,416 @@
+Nombre: TRACKING POLL DIARIOno especifica
+Provincia: no especifica
+Milei: 35.40%
+Massa: 29.70%
+Bullrich: 23.60%
+Bregman: 2.70%
+Schiaretti: 4.20%
+
+Nombre: BrunoVuan
+Provincia: no especifica
+Milei: 36.50%
+Massa: 29.50%
+Bullrich: 27.00%
+Bregman: 0.00%
+Schiaretti: 0.00%
+
+Nombre: AtlasIntel
+Provincia: no especifica
+Milei: 26.50%
+Massa: 30.90%
+Bullrich: 24.40%
+Bregman: 3.20%
+Schiaretti: 10.00%
+
+Nombre: GIACOBBE
+Provincia: no especifica
+Milei: 32.90%
+Massa: 28.50%
+Bullrich: 27.30%
+Bregman: 3.30%
+Schiaretti: 4.20%
+
+Nombre: Synopsis
+Provincia: no especifica
+Milei: 36.50%
+Massa: 29.70%
+Bullrich: 23.80%
+Bregman: 2.00%
+Schiaretti: 3.60%
+
+Nombre: ProyeccionCc
+Provincia: no especifica
+Milei: 35.50%
+Massa: 30.90%
+Bullrich: 23.20%
+Bregman: 2.70%
+Schiaretti: 3.40%
+
+Nombre: NTN24
+Provincia: no especifica
+Milei: 37.40%
+Massa: 29.80%
+Bullrich: 22.70%
+Bregman: 2.70%
+Schiaretti: 3.40%
+
+Nombre: Escenarios
+Provincia: no especifica
+Milei: 37.30%
+Massa: 25.80%
+Bullrich: 17.80%
+Bregman: 1.21%
+Schiaretti: 5.02%
+
+Nombre: FGyA
+Provincia: no especifica
+Milei: 33.00%
+Massa: 29.40%
+Bullrich: 29.70%
+Bregman: 4.00%
+Schiaretti: 4.00%
+
+Nombre: Opinargentina
+Provincia: no especifica
+Milei: 34.00%
+Massa: 29.00%
+Bullrich: 25.00%
+Bregman: 3.00%
+Schiaretti: 2.00%
+
+Nombre: InfoLab/TN
+Provincia: no especifica
+Milei: 40.30%
+Massa: 29.40%
+Bullrich: 23.10%
+Bregman: 2.90%
+Schiaretti: 4.30%
+
+Nombre: Miligno y Asociados
+Provincia: no especifica
+Milei: 40.00%
+Massa: 26.00%
+Bullrich: 27.00%
+Bregman: 3.00%
+Schiaretti: 3.00%
+
+Nombre: UBA Psicologia
+Provincia: no especifica
+Milei: 38.50%
+Massa: 32.30%
+Bullrich: 24.00%
+Bregman: 0.00%
+Schiaretti: 3.20%
+
+Nombre: CBconsultoraok
+Provincia: no especifica
+Milei: 34.00%
+Massa: 23.10%
+Bullrich: 24.70%
+Bregman: 0.00%
+Schiaretti: 0.00%
+
+Nombre: Elecciones Datos
+Provincia: BUENOS AIRES
+Milei: 32.00%
+Massa: 27.00%
+Bullrich: 23.00%
+Bregman: 4.00%
+Schiaretti: 1.00%
+
+Nombre: Elecciones Datos EntENTRE RIOS
+Provincia: ENTRE RIOS
+Milei: 29.00%
+Massa: 27.00%
+Bullrich: 27.00%
+Bregman: 1.00%
+Schiaretti: 2.00%
+
+Nombre: Elecciones Datos CABCABA
+Provincia: CABA
+Milei: 22.00%
+Massa: 24.00%
+Bullrich: 35.00%
+Bregman: 4.00%
+Schiaretti: 1.00%
+
+Nombre: Elecciones Datos SanSANTA FE
+Provincia: SANTA FE
+Milei: 39.00%
+Massa: 22.00%
+Bullrich: 28.00%
+Bregman: 2.00%
+Schiaretti: 4.00%
+
+Nombre: Elecciones Datos MENMENDOZA
+Provincia: MENDOZA
+Milei: 47.00%
+Massa: 20.00%
+Bullrich: 28.00%
+Bregman: 4.00%
+Schiaretti: 2.00%
+
+Nombre: Elecciones Datos LA LA PAMPA
+Provincia: LA PAMPA
+Milei: 36.00%
+Massa: 30.00%
+Bullrich: 26.00%
+Bregman: 2.00%
+Schiaretti: 4.00%
+
+Nombre: Elecciones Datos CORCORDOBA
+Provincia: CORDOBA
+Milei: 39.00%
+Massa: 9.00%
+Bullrich: 20.00%
+Bregman: 1.00%
+Schiaretti: 20.00%
+
+Nombre: Elecciones Datos SANSAN LUIS
+Provincia: SAN LUIS
+Milei: 56.00%
+Massa: 18.00%
+Bullrich: 20.00%
+Bregman: 1.00%
+Schiaretti: 3.00%
+
+Nombre: Elecciones Datos LA LA RIOJA
+Provincia: LA RIOJA
+Milei: 40.00%
+Massa: 33.00%
+Bullrich: 17.00%
+Bregman: 1.00%
+Schiaretti: 7.00%
+
+Nombre: Elecciones Datos NEUNEUQUEN
+Provincia: NEUQUEN
+Milei: 47.00%
+Massa: 22.00%
+Bullrich: 22.00%
+Bregman: 6.00%
+Schiaretti: 1.00%
+
+Nombre: Elecciones Datos RIORIO NEGRO
+Provincia: RIO NEGRO
+Milei: 45.00%
+Massa: 27.00%
+Bullrich: 18.00%
+Bregman: 4.00%
+Schiaretti: 3.00%
+
+Nombre: Elecciones Datos CHUCHUBUT
+Provincia: CHUBUT
+Milei: 44.00%
+Massa: 26.00%
+Bullrich: 25.00%
+Bregman: 4.00%
+Schiaretti: 3.00%
+
+Nombre: Elecciones Datos SANSANTA CRUZ
+Provincia: SANTA CRUZ
+Milei: 40.00%
+Massa: 30.00%
+Bullrich: 13.00%
+Bregman: 2.00%
+Schiaretti: 3.00%
+
+Nombre: Elecciones Datos TIETIERRA DEL FUEGO
+Provincia: TIERRA DEL FUEGO
+Milei: 39.00%
+Massa: 31.00%
+Bullrich: 19.00%
+Bregman: 3.00%
+Schiaretti: 4.00%
+
+Nombre: Elecciones Datos SANSAN JUAN
+Provincia: SAN JUAN
+Milei: 39.00%
+Massa: 30.00%
+Bullrich: 23.00%
+Bregman: 1.00%
+Schiaretti: 1.00%
+
+Nombre: Elecciones Datos CORCORRIENTES
+Provincia: CORRIENTES
+Milei: 34.00%
+Massa: 29.00%
+Bullrich: 25.00%
+Bregman: 1.00%
+Schiaretti: 2.00%
+
+Nombre: Elecciones Datos MISMISIONES
+Provincia: MISIONES
+Milei: 49.00%
+Massa: 29.00%
+Bullrich: 18.00%
+Bregman: 1.00%
+Schiaretti: 1.00%
+
+Nombre: Elecciones Datos SANSANTIAGO DEL ESTERO
+Provincia: SANTIAGO DEL ESTERO
+Milei: 29.00%
+Massa: 53.00%
+Bullrich: 8.00%
+Bregman: 1.00%
+Schiaretti: 2.00%
+
+Nombre: Elecciones Datos CATCATAMARCA
+Provincia: CATAMARCA
+Milei: 28.00%
+Massa: 40.00%
+Bullrich: 20.00%
+Bregman: 1.00%
+Schiaretti: 2.00%
+
+Nombre: Elecciones Datos TUCTUCUMAN
+Provincia: TUCUMAN
+Milei: 38.00%
+Massa: 35.00%
+Bullrich: 18.00%
+Bregman: 2.00%
+Schiaretti: 2.00%
+
+Nombre: Elecciones Datos CHACHACO
+Provincia: CHACO
+Milei: 33.00%
+Massa: 35.00%
+Bullrich: 23.00%
+Bregman: 2.00%
+Schiaretti: 1.00%
+
+Nombre: Elecciones Datos FORFORMOSA
+Provincia: FORMOSA
+Milei: 29.00%
+Massa: 49.00%
+Bullrich: 16.00%
+Bregman: 1.00%
+Schiaretti: 1.00%
+
+Nombre: Elecciones Datos SALSALTA
+Provincia: SALTA
+Milei: 56.00%
+Massa: 26.00%
+Bullrich: 13.00%
+Bregman: 2.00%
+Schiaretti: 3.00%
+
+Nombre: Elecciones Datos JUJJUJUY
+Provincia: JUJUY
+Milei: 45.00%
+Massa: 19.00%
+Bullrich: 18.00%
+Bregman: 7.00%
+Schiaretti: 1.00%
+
+Nombre: NUEVA ENCUESTA
+Provincia: no especifica
+Milei: 41.30%
+Massa: 29.10%
+Bullrich: 20.50%
+Bregman: 4.80%
+Schiaretti: 4.30%
+
+Nombre: NUEVA ENCUESTA PBA 
+Provincia: PBA
+Milei: 34.80%
+Massa: 33.30%
+Bullrich: 24.70%
+Bregman: 5.60%
+Schiaretti: 1.60%
+
+Nombre: PASO 2023
+Provincia: TODA ARGENTINA
+Milei: 29.86%
+Massa: 27.28%
+Bullrich: 28.00%
+Bregman: 1.94%
+Schiaretti: 3.71%
+
+Nombre: Agos 23 Analogias
+Provincia: no especifica
+Milei: 32.10%
+Massa: 26.80%
+Bullrich: 20.90%
+Bregman: 4.90%
+Schiaretti: 3.20%
+
+Nombre: Agos23 CB Consultorano especifica
+Provincia: no especifica
+Milei: 32.30%
+Massa: 28.10%
+Bullrich: 25.30%
+Bregman: 1.80%
+Schiaretti: 3.80%
+
+Nombre: AGOS23 DC Consultorano especifica
+Provincia: no especifica
+Milei: 34.00%
+Massa: 23.10%
+Bullrich: 24.70%
+Bregman: 0.00%
+Schiaretti: 0.00%
+
+Nombre: AGOS23 Opinaia
+Provincia: no especifica
+Milei: 35.00%
+Massa: 25.00%
+Bullrich: 23.00%
+Bregman: 3.00%
+Schiaretti: 5.00%
+
+Nombre: OCT23 Atlas Intel
+Provincia: no especifica
+Milei: 25.20%
+Massa: 30.60%
+Bullrich: 25.00%
+Bregman: 3.90%
+Schiaretti: 11.80%
+
+Nombre: OCT23 CIGP
+Provincia: no especifica
+Milei: 27.20%
+Massa: 28.10%
+Bullrich: 20.90%
+Bregman: 1.30%
+Schiaretti: 5.80%
+
+Nombre: OCT23 Proyeccion conno especifica
+Provincia: no especifica
+Milei: 35.50%
+Massa: 30.90%
+Bullrich: 23.20%
+Bregman: 2.70%
+Schiaretti: 3.40%
+
+Nombre: sep23 CELAG
+Provincia: no especifica
+Milei: 33.20%
+Massa: 32.20%
+Bullrich: 28.10%
+Bregman: 2.90%
+Schiaretti: 3.60%
+
+Nombre: sep23 CEOP
+Provincia: no especifica
+Milei: 34.20%
+Massa: 30.60%
+Bullrich: 24.80%
+Bregman: 0.80%
+Schiaretti: 2.20%
+
+Nombre: sep23 Federico Gonzano especifica
+Provincia: no especifica
+Milei: 33.10%
+Massa: 29.40%
+Bullrich: 29.70%
+Bregman: 3.90%
+Schiaretti: 4.00%
+
+Nombre: Sep23 Proyeccion
+Provincia: no especifica
+Milei: 33.70%
+Massa: 29.10%
+Bullrich: 24.20%
+Bregman: 2.30%
+Schiaretti: 2.60%
+
