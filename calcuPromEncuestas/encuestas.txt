@@ -614,3 +614,27 @@ Bullrich: 10.00%
 Bregman: 3.00%
 Schiaretti: 3.00%
 
+Nombre: promedio de encuestano especifica
+Provincia: no especifica
+Milei: 34.60%
+Massa: 30.40%
+Bullrich: 26.10%
+Bregman: 2.80%
+Schiaretti: 4.00%
+
+Nombre: CIRCUITOS PBA
+Provincia: PBA
+Milei: 22.80%
+Massa: 37.20%
+Bullrich: 30.40%
+Bregman: 1.10%
+Schiaretti: 1.30%
+
+Nombre: EL COMERCIO
+Provincia: no especifica
+Milei: 35.60%
+Massa: 32.70%
+Bullrich: 28.90%
+Bregman: 1.40%
+Schiaretti: 1.40%
+
