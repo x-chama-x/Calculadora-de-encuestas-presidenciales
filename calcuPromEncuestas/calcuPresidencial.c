@@ -37,10 +37,9 @@ void menuPrincipal(){
         printf("menu principal\n");
         printf("1. Agregar encuesta\n");
         printf("2. Mostrar encuestas\n");
-        printf("3. Mostrar cantidad de encuestas cargadas\n");
-        printf("4. Mostrar promedio de encuestas\n");
-        printf("5. Pasar encuestas a archivo de texto\n");
-        printf("6. Salir\n");
+        printf("3. Mostrar promedio de encuestas\n");
+        printf("4. Pasar encuestas a archivo de texto\n");
+        printf("5. Salir\n");
         printf("Ingrese una opcion: ");
         scanf("%d", &opcion);
         switch(opcion){
@@ -55,20 +54,16 @@ void menuPrincipal(){
                 break;
             case 3:
                 system("cls");
-                calcularCantidadDeEncuestas();
-                break;
-            case 4:
-                system("cls");
                 printf("Encuesta presidencial promedio\n");
                 crearEncuestaPromedio(); // crea la encuesta promedio en el momento
                 mostrarEncuestaPromedio();
                 break;
-            case 5:
+            case 4:
                 system("cls");
                 printf("pasar encuestas a txt\n");
                 pasarEncuestasAarchivoTexto();
                 break;
-            case 6:
+            case 5:
                 system("cls");
                 printf("Saliendo...\n");
                 TeclaParaContinuar();
@@ -78,7 +73,7 @@ void menuPrincipal(){
                 TeclaParaContinuar();
                 break;
         } 
-    } while (opcion != 6);
+    } while (opcion != 5);
 }
 
 
@@ -281,8 +276,7 @@ void mostrarEncuestaPromedio() {
     } else {
         printf("Posible balotaje entre %s y %s\n", candidatos[0].nombre, candidatos[1].nombre);
     }
-
-    TeclaParaContinuar();
+    calcularCantidadDeEncuestas();
 }
 
 
@@ -331,6 +325,6 @@ void calcularCantidadDeEncuestas(){
         contador++;
     }
     fclose(archivo);
-    printf("Cantidad de encuestas cargadas: %d\n", contador);
+    printf("\nCantidad de encuestas cargadas: %d\n\n", contador);
     TeclaParaContinuar();
 }

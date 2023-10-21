@@ -414,3 +414,203 @@ Bullrich: 24.20%
 Bregman: 2.30%
 Schiaretti: 2.60%
 
+Nombre: ENCUESTA NACIONAL CBno especifica
+Provincia: no especifica
+Milei: 31.80%
+Massa: 33.00%
+Bullrich: 24.20%
+Bregman: 0.00%
+Schiaretti: 0.00%
+
+Nombre: DC CONSULTORA
+Provincia: no especifica
+Milei: 35.60%
+Massa: 26.20%
+Bullrich: 28.90%
+Bregman: 0.00%
+Schiaretti: 0.00%
+
+Nombre: Circuitos
+Provincia: no especifica
+Milei: 34.10%
+Massa: 32.30%
+Bullrich: 24.40%
+Bregman: 2.10%
+Schiaretti: 2.30%
+
+Nombre: Cb Consultora 11OCT
+Provincia: no especifica
+Milei: 29.90%
+Massa: 29.10%
+Bullrich: 21.80%
+Bregman: 3.40%
+Schiaretti: 6.00%
+
+Nombre: Clivajes Consultoresno especifica
+Provincia: no especifica
+Milei: 33.10%
+Massa: 31.40%
+Bullrich: 26.80%
+Bregman: 3.60%
+Schiaretti: 2.10%
+
+Nombre: DC consultores 10OCTno especifica
+Provincia: no especifica
+Milei: 35.60%
+Massa: 26.20%
+Bullrich: 28.90%
+Bregman: 3.40%
+Schiaretti: 2.70%
+
+Nombre: Fixer 5OCT
+Provincia: no especifica
+Milei: 34.30%
+Massa: 26.10%
+Bullrich: 25.40%
+Bregman: 3.10%
+Schiaretti: 5.50%
+
+Nombre: Zuban Cordoba
+Provincia: Cordoba
+Milei: 34.70%
+Massa: 32.70%
+Bullrich: 25.00%
+Bregman: 1.60%
+Schiaretti: 2.70%
+
+Nombre: Universidad San Andrno especifica
+Provincia: no especifica
+Milei: 34.70%
+Massa: 29.80%
+Bullrich: 26.40%
+Bregman: 3.00%
+Schiaretti: 6.00%
+
+Nombre: Opinaia 20 SEP
+Provincia: no especifica
+Milei: 33.00%
+Massa: 26.00%
+Bullrich: 23.00%
+Bregman: 3.00%
+Schiaretti: 5.00%
+
+Nombre: Opina Argentina
+Provincia: no especifica
+Milei: 34.00%
+Massa: 29.00%
+Bullrich: 25.00%
+Bregman: 3.00%
+Schiaretti: 2.00%
+
+Nombre: Circuitos 25SEP
+Provincia: no especifica
+Milei: 34.60%
+Massa: 31.20%
+Bullrich: 24.80%
+Bregman: 1.80%
+Schiaretti: 1.90%
+
+Nombre: Cb Consultora 28SEP
+Provincia: no especifica
+Milei: 32.20%
+Massa: 28.90%
+Bullrich: 23.70%
+Bregman: 2.10%
+Schiaretti: 3.10%
+
+Nombre: Altica
+Provincia: no especifica
+Milei: 30.40%
+Massa: 33.80%
+Bullrich: 27.10%
+Bregman: 1.50%
+Schiaretti: 2.20%
+
+Nombre: El Electoral
+Provincia: no especifica
+Milei: 32.00%
+Massa: 29.50%
+Bullrich: 24.50%
+Bregman: 2.50%
+Schiaretti: 5.00%
+
+Nombre: OCT16 CEOP
+Provincia: no especifica
+Milei: 34.10%
+Massa: 32.20%
+Bullrich: 24.90%
+Bregman: 1.60%
+Schiaretti: 3.00%
+
+Nombre: UdeSA 25SEP
+Provincia: no especifica
+Milei: 34.70%
+Massa: 29.80%
+Bullrich: 26.40%
+Bregman: 3.00%
+Schiaretti: 6.00%
+
+Nombre: Aresco
+Provincia: no especifica
+Milei: 35.50%
+Massa: 30.10%
+Bullrich: 23.00%
+Bregman: 2.80%
+Schiaretti: 2.80%
+
+Nombre: Consultora Tendenciano especifica
+Provincia: no especifica
+Milei: 30.20%
+Massa: 29.80%
+Bullrich: 23.10%
+Bregman: 4.60%
+Schiaretti: 3.90%
+
+Nombre: OPSA 17AGOS
+Provincia: no especifica
+Milei: 38.50%
+Massa: 32.30%
+Bullrich: 23.70%
+Bregman: 2.30%
+Schiaretti: 3.20%
+
+Nombre: CONNIE TWITTER 39569no especifica
+Provincia: no especifica
+Milei: 27.90%
+Massa: 14.90%
+Bullrich: 48.60%
+Bregman: 4.30%
+Schiaretti: 4.30%
+
+Nombre: NIK TWITTER 21410 VOno especifica
+Provincia: no especifica
+Milei: 54.70%
+Massa: 6.40%
+Bullrich: 36.90%
+Bregman: 1.00%
+Schiaretti: 1.00%
+
+Nombre: MARIA LUJAN TWITTER no especifica
+Provincia: no especifica
+Milei: 67.30%
+Massa: 2.50%
+Bullrich: 29.30%
+Bregman: 0.90%
+Schiaretti: 0.00%
+
+Nombre: El Observador TWITTEno especifica
+Provincia: no especifica
+Milei: 39.00%
+Massa: 9.00%
+Bullrich: 50.00%
+Bregman: 1.00%
+Schiaretti: 1.00%
+
+Nombre: Rebord TWITTER 14000no especifica
+Provincia: no especifica
+Milei: 44.00%
+Massa: 39.00%
+Bullrich: 10.00%
+Bregman: 3.00%
+Schiaretti: 3.00%
+
