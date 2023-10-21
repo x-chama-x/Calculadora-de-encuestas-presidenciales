@@ -325,6 +325,6 @@ void calcularCantidadDeEncuestas(){
         contador++;
     }
     fclose(archivo);
-    printf("\nCantidad de encuestas cargadas: %d\n\n", contador);
+    printf("\nEncuestas cargadas: %d\n\n", contador);
     TeclaParaContinuar();
 }
